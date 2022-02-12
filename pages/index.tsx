@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Lottie from '../lib/lottie'
-import Data from '../lottieData.json'
+import Data from '../animations/lottieData.json'
 
 export default function Home() {
   return (
